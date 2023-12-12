@@ -1,46 +1,43 @@
-baseURL = 'http://example.org/'
-languageCode = 'en-us' 
-theme = 'graysx' 
-title = 'Beloved by Toni Morrison' ## Site Settings [params]
-[params]
-logo = "assets/img/logo.webp"
-favicon = "assets/favicon.png"
+languageCode = "en-us"
+title = "Beloved"
+baseURL = "https://my-beloved.github.io/"
+theme = "hugo-theme-massively"
+disableKinds = ["taxonomy", "taxonomyTerm", "section"]
 
-# Info
-address = "South View Cemetery, Atlanta, Fulton County, Georgia, USA"
-email = "chloe.anthony.wofford@gmail.com"
-phone = "609-279-0343"
-
-# Socials
-
-twitter = "https://twitter.com/tonimorrrison?lang=en"
-facebook = "https://www.facebook.com/OfficialToniMorrisonAuthor/"
-github = "https://github.com/my-beloved/my-beloved.github.io"
-
-# Other
-
-# Startbootstrap Contact Form Token https://startbootstrap.com/solution/contact-forms
-sbtoken = "TOKEN_HERE"
-
-## Menu Items
-[menu]
-  [[menu.main]]
-  name = "About"
-  URL = "#about"
-  weight = 1
-
-  [[menu.main]]
-  name = "Projects"
-  URL = "#projects"
-  weight = 2
-
-  [[menu.main]]
-  name = "Contact"
-  URL = "#signup"
-  weight = 3
+[languages]
+[languages.en]
+  languageName = "English"
 
 
-# Credits
-
-# This theme is forked from: https://github.com/startbootstrap/startbootstrap-grayscale
-# This theme is forked by: https://github.com/akatiggerx04
+#baseURL = 'http://example.org/'
+#languageCode = 'en-us'
+#theme = 'graysx-hugo'
+#title = 'Beloved by Toni Morrison' ## Site Settings [params]
+#[params]
+#logo = "assets/img/logo.webp"
+#favicon = "assets/favicon.png"
+#
+## Info
+#address = "South View Cemetery, Atlanta, Fulton County, Georgia, USA"
+#email = "chloe.anthony.wofford@gmail.com"
+#phone = "609-279-0343"
+#
+## Socials
+#
+#twitter = "https://twitter.com/tonimorrrison?lang=en"
+#facebook = "https://www.facebook.com/OfficialToniMorrisonAuthor/"
+#github = "https://github.com/my-beloved/my-beloved.github.io"
+#
+### Menu Items
+#[menu]
+#  [[menu.main]]
+#  name = "About"
+#  URL = "#about"
+#  weight = 1
+#
+#  [[menu.main]]
+#  name = "Projects"
+#  URL = "#projects"
+#  weight = 2
+#
+#
