@@ -3,5 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://my-beloved.github.io/</loc>
+  </url><url>
+    <loc>https://my-beloved.github.io/generic-page/</loc>
   </url>
 </urlset>
