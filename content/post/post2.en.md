@@ -1,7 +1,7 @@
 +++
-title = 'Beloved'
+title = 'Sethe'
 slug = 'hyunsoo'
 image = 'images/Hyunsoo-Beloved.png'
-description = 'Painting of Beloved from Hyunsoo'
+description = 'Painting of Sethe from Hyunsoo'
 disableComments = true
 +++
