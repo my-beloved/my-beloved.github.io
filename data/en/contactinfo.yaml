@@ -1,9 +1,7 @@
-contactformaction: 'post-action'
+contactformaction:
 
 address:
 - line: 'South View Cemetery, Atlanta'
 - line: 'Fulton County, Georgia, USA'
-
-phone: '609-279-0343'
 
 email: 'chloe.anthony.wofford@gmail.com'
