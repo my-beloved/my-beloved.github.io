@@ -1,3 +1,7 @@
 items:
+- title: 'About'
+  url: '/about'
+- title: 'The Music'
+  url: '/sketch-on-beloved'
 - title: 'Circle of Iron'
   url: '/iron'
