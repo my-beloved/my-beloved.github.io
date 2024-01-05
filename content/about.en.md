@@ -16,8 +16,8 @@ This website is a collection of the creative response's to Toni Morrison's book 
 
 If you have any questions about the website itself or want to add your own art of any form to it, please feel free to email. This is based off of Toni Morrison's birthname and an email address I own: [chloe.anthony.wofford@gmail.com](chloe.anthony.wofford@gmail.com).
 
-*-Arnold*
-
 Thank you to all the wonderful contributors who have been willing to share their work to the world and add to the website: \
 Ishan Ghosh \
 Hyunsoo Lee
+
+*-By Arnold Yang*
