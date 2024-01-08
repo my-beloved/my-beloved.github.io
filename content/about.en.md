@@ -18,6 +18,8 @@ If you have any questions about the website itself or want to add your own art o
 
 Thank you to all the wonderful contributors who have been willing to share their work to the world and add to the website: \
 Ishan Ghosh \
-Hyunsoo Lee
+Hyunsoo Lee \
+Eliot Derbenti \
+Christopher Willard
 
 *-By Arnold Yang*

@@ -2,7 +2,7 @@
 title = 'Sketch on Beloved'
 slug = 'sketch-on-beloved'
 image = 'images/sketch-on-beloved.png'
-description = 'Sketch on Beloved is the wonderful background music written and performed by Ishan Ghosh'
+description = 'Sketch on Beloved is the wonderful background music written by Ishan Ghosh'
 disableComments = true
 +++
 
